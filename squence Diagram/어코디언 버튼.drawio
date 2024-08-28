@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7">
+  <diagram name="페이지-1" id="nWkxcP9btng-65_9v532">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YcFifHvxSoaByOGpblbp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="In2rfyoo2SAgqLPbP1Ob-1" target="YcFifHvxSoaByOGpblbp-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="In2rfyoo2SAgqLPbP1Ob-1" value="시작" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcFifHvxSoaByOGpblbp-6" target="YcFifHvxSoaByOGpblbp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcFifHvxSoaByOGpblbp-6" target="YcFifHvxSoaByOGpblbp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-6" value="버튼 클릭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320.0000000000002" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcFifHvxSoaByOGpblbp-7" target="YcFifHvxSoaByOGpblbp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-7" value="글자칸이 펼쳐진다" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320.0000000000002" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcFifHvxSoaByOGpblbp-9" target="YcFifHvxSoaByOGpblbp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcFifHvxSoaByOGpblbp-9" target="YcFifHvxSoaByOGpblbp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-9" value="버튼 클릭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320.0000000000002" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcFifHvxSoaByOGpblbp-11" target="YcFifHvxSoaByOGpblbp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-11" value="글자칸 닫힘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320.0000000000002" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YcFifHvxSoaByOGpblbp-13" target="In2rfyoo2SAgqLPbP1Ob-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="940" />
+              <mxPoint x="280" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-13" value="종료" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320.0000000000002" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-16" value="클릭하지 않음" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520.0000000000002" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcFifHvxSoaByOGpblbp-18" target="YcFifHvxSoaByOGpblbp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-18" value="클릭하지 않음" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520.0000000000002" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-20" value="종료" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520.0000000000002" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;어코디언 버튼&lt;/h1&gt;&lt;p&gt;버튼을 누르면 버튼 바로 밑에 칸이 생성이 된다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;다시 버튼을 누르면 칸이 사라진다.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YcFifHvxSoaByOGpblbp-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;https://codepen.io/Studio-kei/pen/VwJzBJv&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1040" width="360" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

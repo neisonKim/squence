@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body {
+  height: 100vh;
+  background-size: cover;
+  background-image: url("https://image.api.playstation.com/vulcan/img/rnd/202010/0721/vdn7FVhyZ4zBDTFz6J2Mj9nD.png");
+  background-repeat: repeat;
+  background-position: center;
+  background-color: yellow;
+}
+
+header {
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 50%;
+  background-color: gray;
+}
+
+/*nesting 중첩*/

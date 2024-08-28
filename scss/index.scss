@@ -1,0 +1,35 @@
+$full-width:100%;
+$full-height:100%;
+$halp-height:50%;
+
+
+
+@mixin background($repeat, $image, $size) {
+    background-size:$size;
+    background-image:$image;
+    background-repeat: $repeat;
+    background-position: center;
+    background-color: yellow;
+}
+
+@mixin flex($justify-content, $flex-direction){
+    justify-content: $justify-content;
+    align-items: center;
+    display: flex;
+    flex-direction: $flex-direction;
+}
+
+
+body{
+    height: 100vh;
+    @include background(repeat, url("https://image.api.playstation.com/vulcan/img/rnd/202010/0721/vdn7FVhyZ4zBDTFz6J2Mj9nD.png"), cover);
+}
+  
+
+header{
+    @include flex(space-around, column);
+    width: $full-width;
+    height: calc($full-height - $halp-height);
+    background-color:gray;
+}
+/*nesting 중첩*/
